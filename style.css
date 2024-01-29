@@ -1,0 +1,15 @@
+.gameScreen {
+  display: flex;
+  justify-content: center;
+}
+
+#gameCanvas {
+  border: 10px ridge grey;
+}
+
+#score {
+  text-align: center;
+  font-size: 10em;
+  font-family: sans-serif;
+  font-weight: bold;
+}
